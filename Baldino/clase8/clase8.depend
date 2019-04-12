@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1555030271 source:/home/alumno/Documentos/workspace_c/programacion_1_laboratorio_1-master/Baldino/clase8/arraynuevo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arraynuevo.h"
+
+1555030989 source:/home/alumno/Documentos/workspace_c/programacion_1_laboratorio_1-master/Baldino/clase8/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arraynuevo.h"
+
+1555030151 /home/alumno/Documentos/workspace_c/programacion_1_laboratorio_1-master/Baldino/clase8/arraynuevo.h
+

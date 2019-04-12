@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553363463 source:/home/braian/Documentos/programacion_1_laboratorio_1/Baldino/clase_02/enClase2/main.c
+	<stdio.h>
+	<stdlib.h>
+

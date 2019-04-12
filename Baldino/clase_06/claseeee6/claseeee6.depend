@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1554423177 source:/home/alumno/Documentos/workspace_c/programacion_1_laboratorio_1-master/Baldino/clase_06/claseeee6/array.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1554423223 source:/home/alumno/Documentos/workspace_c/programacion_1_laboratorio_1-master/Baldino/clase_06/claseeee6/main.c
+	<stdio.h>
+	<stdlib.h>
+	"array.h"
+
+1554423177 /home/alumno/Documentos/workspace_c/programacion_1_laboratorio_1-master/Baldino/clase_06/claseeee6/array.h
+
+1554792869 source:g:\utn\programacion_laboratorio 1\programacion_1_laboratorio_1-master\baldino\baldino\clase_06\claseeee6\array.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1554792064 source:g:\utn\programacion_laboratorio 1\programacion_1_laboratorio_1-master\baldino\baldino\clase_06\claseeee6\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	"array.h"
+
+1554790792 g:\utn\programacion_laboratorio 1\programacion_1_laboratorio_1-master\baldino\baldino\clase_06\claseeee6\array.h
+

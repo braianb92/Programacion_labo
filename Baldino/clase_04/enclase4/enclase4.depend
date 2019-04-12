@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553821290 source:/home/alumno/Documentos/workspace_c/programacion_1_laboratorio_1/Baldino/clase_04/enclase4/utn.c
+	<stdio.h>
+
+1553821155 source:/home/alumno/Documentos/workspace_c/programacion_1_laboratorio_1/Baldino/clase_04/enclase4/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1553821155 /home/alumno/Documentos/workspace_c/programacion_1_laboratorio_1/Baldino/clase_04/enclase4/utn.h
+
